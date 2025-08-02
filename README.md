@@ -33,3 +33,8 @@ Open your terminal and run:
 
 ```bash
 chmod +x ~/git-push.sh
+
+#### 3. **Create an Alias (optional)**
+
+Add this line to your ~/.bashrc (or ~/.zshrc if you use zsh):
+
